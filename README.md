@@ -1,3 +1,9 @@
+# Visita la aplicación! 
+La subí a un hosting llamado Netlify ;)
+--- > (https://angulargeh.netlify.app) <---
+
+
+
 # Bases
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
